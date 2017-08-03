@@ -2,8 +2,8 @@ package junit.spring.test;
 
 import java.util.Date;
 
-import com.liuyh.DateUtils;
-import com.liuyh.DelayMessage;
+import com.liuyh.queue.DateUtils;
+import com.liuyh.queue.DelayMessage;
 
 /**
  * 延迟队列测试例子

@@ -9,8 +9,8 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import com.liuyh.DateUtils;
-import com.liuyh.MessageFactory;
+import com.liuyh.queue.DateUtils;
+import com.liuyh.queue.MessageFactory;
 
 /**
  * 队列特性： 1.支持延迟队列和普通队列 2.支持顺序消费和并发消费 3.支持流控
